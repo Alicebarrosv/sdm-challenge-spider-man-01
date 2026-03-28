@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yi4QJnS0APo=",
+  "success": true,
+  "projectFilePath": "E:\\Atividade_Alice\\SpiderNetApi\\SpiderNetApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
