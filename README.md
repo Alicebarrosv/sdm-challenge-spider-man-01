@@ -1,4 +1,8 @@
 # 🕸️ Lista de Exercícios – Sistemas Distribuídos
+
+# Aluno: Alice Barros Viana
+
+# [README COM OS RESULTADOS DA MINHA ATIVIDADE](ReadmeApi.md)
 ## Exercício: SpiderNet API – Registro de Missões do Homem-Aranha
 
 ### 📌 Orientações
